@@ -4,6 +4,9 @@
   * I DID NOT MAKE THIS UI LIB
 ]]
 
+print("discord.gg/yukiW")
+print("Made by BLVVDE")
+
 -- / Locals
 local Workspace = game:GetService("Workspace")
 local Player = game:GetService("Players").LocalPlayer
